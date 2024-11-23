@@ -206,7 +206,7 @@
 
 > 장르와 감성 점수의 관계는 확인할 수 없었다. 장르에 따라붙는 이미지는 편견일 뿐이다. 
 
-#### [3] 가사 TF-IDF 분석<br>
+#### [4] 가사 TF-IDF 분석<br>
 
 <figure class="half">  
     <img src="README_image/image-11.png">  
